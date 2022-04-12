@@ -1,0 +1,26 @@
+.................................................................
+  BILL
+|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+
+Meal 1
+CustomBurger : 80.0 $ 
+Water : 10.0 $ 
+Total cost of Meal with a combo discount of 15.0$ : 75.0 $
+
+Meal 2
+SimpleBurger  :  60.0 $
+
+Meal 3
+HotDog : 40.0 $ 
+Coke : 20.0 $ 
+Total cost of Meal with a combo discount of 15.0$ : 45.0 $
+
+Meal 4
+Water  :  10.0 $
+
+
+|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+
+The total Price of the order is : 117.01$
+The Order had more than 3 meals, a discount of 0.15%  was applied!
+..................................................................
