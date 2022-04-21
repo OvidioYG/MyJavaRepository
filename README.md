@@ -1,2 +1,2 @@
-# This is my Java Repository
-Repository for personal use
+# This is my Java Projects Repository
+Repository for personal use 
