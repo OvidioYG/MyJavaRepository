@@ -1,4 +1,4 @@
-This README is an index for the projects inside this repository.
+# This README is an index for the projects inside this repository
 
 Here you may find the name of the project and an introduction to it and what does it is accomplishing or accomplished with its creation.
 
